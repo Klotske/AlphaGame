@@ -1,2 +1,2 @@
 # AlphaGame
-YoHack Демо
+YoHack Демо, проект в папке Rayzor-starter
